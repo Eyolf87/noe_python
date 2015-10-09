@@ -2,3 +2,4 @@
 testing med python
 dasda
 :pizza
+Ta vekk pizza
